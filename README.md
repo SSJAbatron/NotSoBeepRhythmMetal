@@ -7,4 +7,4 @@ The Game is a 2D Vertical Scrolling Rhythm game where you need to hit the correc
 
 This game ranked __14th__ in the game trijam.
 
-Game link - [Highlight](https://itch.io/queue/c/4475315/g2m-game-jam-april-2024?game_id=2675133)
+Game link - [NotSoBeepRhythmMetal](https://ssjabatron.itch.io/not-so-beep-rhythm-metal-game)
